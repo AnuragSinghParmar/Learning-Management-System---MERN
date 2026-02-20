@@ -40,11 +40,6 @@ A premium MERN stack application for managing school activities, built with Reac
     - **Frontend**: `npm run dev`
     - **Backend**: `node server/index.js` (or use `nodemon server/index.js`)
 
-## Deployment to Vercel
-
-1.  Install Vercel CLI: `npm i -g vercel`
-2.  Run `vercel` in the root directory.
-3.  The `vercel.json` is already configured to handle the API and Frontend routing.
 
 ## Project Structure
 
