@@ -1,4 +1,4 @@
-# NexusEdu - School Management System
+# EDU Portal - School Management System
 
 A premium MERN stack application for managing school activities, built with React, Tailwind CSS, Express, and MongoDB.
 
